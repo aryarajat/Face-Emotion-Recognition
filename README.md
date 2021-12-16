@@ -23,5 +23,4 @@ longer in the teacher’s brain rather translated in numbers that can be analyse
 We have built a deep learning model which detects the real time emotions of students through a webcam so that teachers can understand if students are able to grasp the topic according to students' expressions or emotions and then deploy the model. The model is trained on the Face Expression Dataset.
 
 This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions -angry, disgusted, fearful, happy, neutral, sad and surprised.
-![image](https://user-images.githubusercontent.com/85746056/146337682-65f209c3-d1e1-4a93-a9b3-d09c3fe76a75.png)
 
