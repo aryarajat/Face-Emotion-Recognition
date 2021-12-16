@@ -30,3 +30,4 @@ This dataset consists of 35887 grayscale, 48x48 sized face images with seven emo
 Validation Accuracy achived by model is 65%.
 
 ![output](https://user-images.githubusercontent.com/85746056/146340966-1784d293-b84d-44d1-a9ef-1f89eaef5547.png)
+## Dependencies
