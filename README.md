@@ -28,3 +28,4 @@ This dataset consists of 35887 grayscale, 48x48 sized face images with seven emo
 #  Model Building Using CNN
 ![model](https://user-images.githubusercontent.com/85746056/146340046-299eb139-58a5-439f-a011-c62e4e8515f6.png)
 Validation Accuracy achived by model is 65%.
+![model](https://user-images.githubusercontent.com/85746056/146340827-f361cdd3-d545-4190-bf3d-1c2c254ee77d.png)
