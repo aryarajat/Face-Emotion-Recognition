@@ -32,10 +32,15 @@ Validation Accuracy achived by model is 65%.
 ![output](https://user-images.githubusercontent.com/85746056/146340966-1784d293-b84d-44d1-a9ef-1f89eaef5547.png)
 ## Dependencies
 Numpy =1.21.2
+
 Streamlit =0.87.0
+
 Keras =2.4.3
+
 Opencv-contrib-python-headless
+
 Tensorflow-cpu
+
 Streamlit_webrtc
 
 
