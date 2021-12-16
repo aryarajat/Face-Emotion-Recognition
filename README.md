@@ -24,3 +24,4 @@ We have built a deep learning model which detects the real time emotions of stud
 
 This dataset consists of 35887 grayscale, 48x48 sized face images with seven emotions -angry, disgusted, fearful, happy, neutral, sad and surprised.
 
+![image](https://user-images.githubusercontent.com/85746056/146337953-022092b3-7949-4b4d-a752-a080390fdd91.png)
