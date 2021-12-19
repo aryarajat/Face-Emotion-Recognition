@@ -55,5 +55,5 @@ Steps required to run the streamlit webapp.
 * Add any addresses you want to ignore the secure origin policy for. Remember to include the port number too (if required).
 * Save and restart Chrome.
 * Heroku link: https://facial-emotion-recognition-py.herokuapp.com/ 
-* Streamlit link: http://192.168.221.127:8504   
+* Streamlit link: http://192.168.32.127:8501/  
 
