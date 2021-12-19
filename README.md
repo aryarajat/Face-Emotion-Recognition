@@ -50,10 +50,10 @@ The model which was created using CNN that gave training accuracy of 80% and val
 
 Steps required to run the streamlit webapp.
 
-*Navigate to `chrome://flags/#unsafely-treat-insecure-origin-as-secure` in Chrome.
-*Find and enable the `Insecure origins treated as secure` section (see below).
-*Add any addresses you want to ignore the secure origin policy for. Remember to include the port number too (if required).
-*Save and restart Chrome.
+* Navigate to `chrome://flags/#unsafely-treat-insecure-origin-as-secure` in Chrome.
+* Find and enable the `Insecure origins treated as secure` section (see below).
+* Add any addresses you want to ignore the secure origin policy for. Remember to include the port number too (if required).
+* Save and restart Chrome.
 * Heroku link: https://facial-emotion-recognition-py.herokuapp.com/ 
 * Streamlit link: http://192.168.221.127:8504   
 
