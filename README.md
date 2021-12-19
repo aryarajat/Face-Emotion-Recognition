@@ -47,6 +47,6 @@ Streamlit_webrtc
 The model which was created using CNN that gave training accuracy of 80% and validation accuracy of 65%. 
 
 ## Deployment 
-Heroku link: https://facial-emotion-recognition-py.herokuapp.com/ 
-Streamlit link: http://192.168.221.127:8504   
+* Heroku link: https://facial-emotion-recognition-py.herokuapp.com/ 
+* Streamlit link: http://192.168.221.127:8504   
 
